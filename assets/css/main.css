@@ -7,9 +7,54 @@ body{
 }
 
 .container h1{
-    color: #2FA91A !important;
+    color: #4477EE !important;
+   }
+   .container h6{
+    color: ivory !important;
+   }
+   .jumbotron{
+    background-color: #4477EE !important;
+   }
+   .well {
+    background-color: #4477EE !important;
+   }
+   .label-info{
+    background-color: #FFAD69  !important;
+   }
+  .jumbotron h3 {
+       color: aliceblue;
+   }
+  
+   .jumbotron .btn-primary{
+    background-color: #FFAD69 ;
+    color: ivory !important;
+   }
+   .jumbotron label{
+       color: ivory;
    }
 
-   .jumbotron{
-    background-color: #2FA91A !important;
-   }
+   .jumbotron .btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #FFAD69  !important;
+    color: ivory !important;
+}
+.jumbotron .btn btn-warning{
+    background-color: #FFAD69 !important;
+}
